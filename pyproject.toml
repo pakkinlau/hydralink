@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hydra-link"
+version = "0.1.0"
+description = "EMNLP2025 - System Demonstration submission"
+readme = "README.md"                 # path to your README
+license = { file = "LICENSE" }       # license file
+keywords = ["example", "pypi"]
+authors = [
+  { name="Pak Kin Lau", email="pakkin.lau@link.cuhk.edu.hk" }
+]
+classifiers = [
+  "Programming Language :: Python :: 3.10",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+dependencies = []                    # runtime dependencies
+
+[project.urls]
+"Homepage" = "https://github.com/pakkinlau/hydralink"
+"Repository" = "https://github.com/pakkinlau/hydralink.git"

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/hydra_link.egg-info/PKG-INFO
+src/hydra_link.egg-info/SOURCES.txt
+src/hydra_link.egg-info/dependency_links.txt
+src/hydra_link.egg-info/top_level.txt
+src/my_package/__init__.py
+tests/test_basic.py
